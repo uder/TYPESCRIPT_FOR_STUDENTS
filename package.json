@@ -1,0 +1,19 @@
+{
+  "name": "typescript_for_students",
+  "version": "1.0.0",
+  "description": "Code sample consist of implementation of Observer, Observable and usage of this classes (handling requests). The assignment implies the coverage of the types of the entire code not only Observable & Observer but also request, users objects and observer handlers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gridu/TYPESCRIPT_FOR_STUDENTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gridu/TYPESCRIPT_FOR_STUDENTS/issues"
+  },
+  "homepage": "https://github.com/gridu/TYPESCRIPT_FOR_STUDENTS#readme"
+}
